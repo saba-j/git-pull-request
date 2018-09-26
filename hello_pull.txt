@@ -1,3 +1,2 @@
 This is important Hello pull request tutorial
-Another line from the contributer is here.
 Now we have a new qoute here.
